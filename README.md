@@ -1,2 +1,0 @@
-# liffApp
-# hogehoge
